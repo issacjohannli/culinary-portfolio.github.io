@@ -1,6 +1,4 @@
-# chef-issac.github.io
-
-### Culinary Portfolio by Pak Hei Li (Issac)
+# Culinary Portfolio by Pak Hei Li (Issac)
 
 # Getting Started with Create React App
 
