@@ -1,4 +1,5 @@
 # Culinary Portfolio by Pak Hei Li (Issac)
+- This website displays a curated gallery of dishes I created based on my skills in Haute cuisine.
 
 # Getting Started with Create React App
 
